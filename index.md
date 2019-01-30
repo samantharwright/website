@@ -1,5 +1,5 @@
 
-<p>Content designer at NHS Digital in training.</p>
+<p>Graduate designer at NHS Digital.</p>
 
 <h2>Blogs</h2> 
 
