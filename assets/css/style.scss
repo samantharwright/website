@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-header {
-color: purple;
+
+#header_wrap {
+
+  background-color: purple;
 }
