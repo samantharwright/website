@@ -1,0 +1,79 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/samantha-saw-blogs/assets/css/style.css?v=74925587a2dbb4564e0f966645145991d68bccda">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Remembering to ask yourself what the user need is</title>
+<meta name="generator" content="Jekyll v3.7.4">
+<meta property="og:title" content="Samantha Saw">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://samanthasaw.github.io/samantha-saw-blogs/">
+<meta property="og:url" content="https://samanthasaw.github.io/samantha-saw-blogs/">
+<meta property="og:site_name" content="Samantha Saw">
+<script type="application/ld+json">
+{"headline":"Samantha Saw","@type":"WebSite","url":"https://samanthasaw.github.io/samantha-saw-blogs/","name":"Samantha Saw","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<div id="header_wrap" class="outer">
+        <header class="inner">
+
+          <h1 id="project_title">Samantha Saw</h1>
+
+          
+        </header>
+    </div>
+    
+  </head>
+
+<body>
+    
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+
+<h1>Remembering to ask yourself what the user need is<h1> 
+
+<p>Me and Andrew (interaction designer I work with) worked on ideas for our contact centre staff to quickly send people reports.</p>  
+
+<p>We sketched out a flow on post it notes and Andrew helped me to mock up the screens in code.</p>  
+
+<p>I’m a beginner at creating prototypes in code so this was a great opportunity for me to improve my skills.</p> 
+
+<p>The flow includes a screen where users select the type of reports they want to send.</p> 
+
+<p>On the next screen we tell users they should have permission to create a report. By clicking continue the user creates a report.</p> 
+
+<p>Andrew suggested adding a way for users to go back to the Select the report you want to send screen.</p> 
+
+<p>If users could go back to this screen they could check or change which report types they’d selected.</p>
+
+<p>He helped me to add a back to previous page link to the screen.</p> 
+
+<p>After adding the back link I told him I’d add the same link to all of the other screens we’d built.</p> 
+
+<p>But he stopped me and asked a very important question.</p> 
+
+<p>What is the user need?</p> 
+
+<p>Now I’d learnt how to add the back link I’d got ahead of myself.</p> 
+
+<p>I assumed that all the screens needed a back link too because we’d added the link to the one screen.</p> 
+
+<p>This was a big lesson for me as a graduate designer.</p>
+
+<p>Always remember to ask yourself what is the user need. Don’t add complexity if there isn’t one.</p>
+
+<nav class="pagination">
+    </nav>
+          
+<p>
+Copyright Samantha Saw
+|
+<a href="https://twitter.com/samantharosesaw/">@samantharosesaw</a>
+</p>
+    
+      </section>
+    </div>
+    
+</body>
