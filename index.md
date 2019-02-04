@@ -3,9 +3,9 @@
 
 <h2>Blogs</h2> 
 
+<p>Blog name here</p>
 
-
-
+<p>Blog name here</p>
 
 <p>
 Copyright Samantha Saw
