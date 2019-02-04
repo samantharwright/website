@@ -1,5 +1,5 @@
 
-<p>Graduate designer at NHS Digital.</p>
+<p>Graduate designer at NHS Digital</p>
 
 <h2>Blogs</h2> 
 
