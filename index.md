@@ -7,6 +7,9 @@
 
 <p>Blog name here</p>
 
+<nav class="pagination">
+    </nav>
+    
 <p>
 Copyright Samantha Saw
 |
