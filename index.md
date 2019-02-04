@@ -3,9 +3,9 @@
 
 <h2>Blogs</h2> 
 
-<p>Blog name here</p>
+<a href="goose-skirting-the-issue.html">Goose skirting the issue</a>
 
-<p>Blog name here</p>
+<a href="remembering-to-ask-what-the-user-need-is.html">Remembering to ask what the user need is</a>
 
 <nav class="pagination">
     </nav>
