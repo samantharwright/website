@@ -16,6 +16,10 @@
     border-bottom: none;
 }
 
+h2 {
+    background: none;
+}
+
 body  {
 	font-family: "Courier New", Courier, monospace;
 	background: #f2f2f2;
@@ -23,10 +27,6 @@ body  {
 
 p {
     font-size: 20px;    
-}
-
-h2 {
-    background: none;
 }
 
 .pagination {
