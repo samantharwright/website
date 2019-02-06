@@ -17,6 +17,12 @@ $blog-date: #FFFFFF;
 	p {
 	color: $blog-date;
 	}
+	
+	.inner {
+		
+		padding: 30px 10px 30px 10px;
+	
+	}
 }
 
 #footer_wrap {
@@ -64,7 +70,7 @@ a {
 
 .blog-link { 
 	
-	margin: 0 0 12px 0;
+	margin: 0 0 8px 0;
 	
     a { color: #FFFFFF;
 	font-size: 20px;
