@@ -25,6 +25,7 @@ $black: #1b121a;
 $purple: #60205b;
 $purple-2: #84157b;
 $link-color: $purple-2;
+$blog-date: #FFFFFF;
 
 body  {
 	font-family: $font-family;
@@ -38,7 +39,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    font-size: 20px;    
+    font-size: 20px; 
+    color: $blog-date;
 }
 
 a {
