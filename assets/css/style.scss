@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+$font-family: "Courier New", Courier, monospace;
+$black: #1b121a;
+$purple: #60205b;
+$purple-2: #84157b;
+$link-color: $purple-2;
+$blog-date: #FFFFFF;
+
 #header_wrap {
 
     background: #582658; 
@@ -23,13 +30,6 @@
 h2 {
     background: none;
 }
-
-$font-family: "Courier New", Courier, monospace;
-$black: #1b121a;
-$purple: #60205b;
-$purple-2: #84157b;
-$link-color: $purple-2;
-$blog-date: #FFFFFF;
 
 body  {
 	font-family: $font-family;
