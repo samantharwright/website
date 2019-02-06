@@ -6,6 +6,10 @@
 #header_wrap {
 
     background: #582658; 
+	
+	p {
+	color: $blog-date;
+	}
 }
 
 #footer_wrap {
@@ -40,7 +44,6 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
     font-size: 20px; 
-    color: $blog-date;
 }
 
 a {
