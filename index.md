@@ -3,6 +3,8 @@
 
 <h2>Blogs</h2> 
 
+<a href="perfect-is-the-enemy-of-good.html">Perfect is the enemy of good</a>
+
 <a href="goose-skirting-the-issue.html">Goose skirting the issue</a>
 
 <a href="remembering-to-ask-what-the-user-need-is.html">Remembering to ask what the user need is</a>
