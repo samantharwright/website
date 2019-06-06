@@ -3,6 +3,8 @@
 
 <h2>Blogs</h2> 
 
+<a href="finding-out-if-something-is-vegan.html">Finding out if something is vegan</a>
+
 <a href="perfect-is-the-enemy-of-good.html">Perfect is the enemy of good</a>
 
 <a href="goose-skirting-the-issue.html">Goose skirting the issue</a>
