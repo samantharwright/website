@@ -3,6 +3,8 @@
 
 <h2>Blogs</h2> 
 
+<a href="be-aware-of-how-components-work-together.html">Be aware of how your components work together</a>
+
 <a href="finding-out-if-something-is-vegan.html">Finding out if something is vegan</a>
 
 <a href="perfect-is-the-enemy-of-good.html">Perfect is the enemy of good</a>
