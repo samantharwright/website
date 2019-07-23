@@ -3,6 +3,8 @@
 
 <h2>Blogs</h2> 
 
+<a href="let-yourself-have-bad-ideas.html">Let yourself have bad ideas</a>
+
 <a href="be-aware-of-how-components-work-together.html">Be aware of how your components work together</a>
 
 <a href="finding-out-if-something-is-vegan.html">Finding out if something is vegan</a>
