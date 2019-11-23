@@ -1,7 +1,7 @@
 
-<p>Graduate designer at NHS Digital</p>
+<p>Associate designer at NHS Digital</p>
 
-<h2>Blogs</h2> 
+<h2>Blog posts</h2> 
 
 <a href="let-yourself-have-bad-ideas.html">Let yourself have bad ideas</a>
 
