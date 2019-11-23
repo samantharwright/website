@@ -3,6 +3,8 @@
 
 <h2>Blog posts</h2> 
 
+<a href="do-the-hard-work-to-make-your-prototype-simple.html">Do the hard work to make your prototype simple</a>
+
 <a href="let-yourself-have-bad-ideas.html">Let yourself have bad ideas</a>
 
 <a href="be-aware-of-how-components-work-together.html">Be aware of how your components work together</a>
