@@ -3,7 +3,7 @@
 
 <h2>Blog posts</h2> 
 
-<a href="do-the-hard-work-to-make-your-prototype-simple.html">Do the hard work to make prototyping simpler</a>
+<a href="do-the-hard-work-to-make-prototyping-simpler.html">Do the hard work to make prototyping simpler</a>
 
 <a href="let-yourself-have-bad-ideas.html">Let yourself have bad ideas</a>
 
