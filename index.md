@@ -3,6 +3,8 @@
 
 <h2>Blog posts</h2> 
 
+<a href="check-how-your-design-works-on-different-devices.html">Check how your design works on different devices</a>
+
 <a href="do-the-hard-work-to-make-prototyping-simpler.html">Do the hard work to make prototyping simpler</a>
 
 <a href="let-yourself-have-bad-ideas.html">Let yourself have bad ideas</a>
@@ -25,4 +27,3 @@ Copyright Samantha Saw
 |
 <a href="https://twitter.com/samantharosesaw/">@samantharosesaw</a>
 </p>
-
