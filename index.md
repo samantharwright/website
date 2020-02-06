@@ -3,6 +3,8 @@
 
 <h2>Blog posts</h2> 
 
+<a href="think-small.html">Think small</a>
+
 <a href="check-how-your-design-works-on-different-devices.html">Check how your design works on different devices</a>
 
 <a href="do-the-hard-work-to-make-prototyping-simpler.html">Do the hard work to make prototyping simpler</a>
