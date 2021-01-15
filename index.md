@@ -1,6 +1,4 @@
 
-<p>Associate designer at NHS Digital</p>
-
 <h2>Blog posts</h2> 
 
 <a href="think-small.html">Think small</a>
@@ -20,6 +18,12 @@
 <a href="goose-skirting-the-issue.html">Goose skirting the issue</a>
 
 <a href="remembering-to-ask-what-the-user-need-is.html">Remembering to ask what the user need is</a>
+
+<h2>About me</h2> 
+
+<p>I'm currently an interaction designer at NHS Digital, working on the NHS App.</p>
+
+<p>I enjoy trying to solve complex problems to make things easier and simpler for the user.</p>
 
 <nav class="pagination">
     </nav>
