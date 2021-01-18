@@ -1,15 +1,10 @@
 
 <h2>Blog posts</h2> 
 
-<h3>2021</h3>
 
 <a href="let-it-go.html">Let it go</a>
 
-<h3>2020</h3>
-
 <a href="think-small.html">Think small</a>
-
-<h3>2019</h3>
 
 <a href="check-how-your-design-works-on-different-devices.html">Check how your design works on different devices</a>
 
