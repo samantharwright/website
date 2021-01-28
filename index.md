@@ -2,6 +2,8 @@
 <h2>Blog posts</h2> 
 
 
+<a href="challenging-white-by-default.html">Challenging white by default</a>
+
 <a href="let-it-go.html">Let it go</a>
 
 <a href="think-small.html">Think small</a>
@@ -26,7 +28,7 @@
 
 <p>I'm currently an interaction designer at NHS Digital, working on the NHS App.</p>
 
-<p>I enjoy trying to solve complex problems to make things easier and simpler for the user.</p>
+<p>I enjoy trying to solve complex problems to make things easier and simpler for users.</p>
 
 <nav class="pagination">
     </nav>
