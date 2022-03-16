@@ -26,7 +26,7 @@
 
 <h2>About me</h2> 
 
-<p>I'm currently an interaction designer at NHS Digital, working on the NHS App.</p>
+<p>I'm currently a designer at NHS Digital, working on the screening programme.</p>
 
 <p>I enjoy trying to solve complex problems to make things easier and simpler for users.</p>
 
