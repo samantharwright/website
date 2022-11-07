@@ -40,5 +40,5 @@ Copyright Samantha Saw
 |
 <a href="https://twitter.com/samantharosesaw/">Twitter</a> 
 |   
-<a href="https://www.linkedin.com/in/samantha-saw/"Linkedin</a>
+<a href="https://www.linkedin.com/in/samantha-saw/">Linkedin</a>
 </p>
