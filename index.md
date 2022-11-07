@@ -1,3 +1,10 @@
+<h2>About me</h2> 
+
+<p>I'm a Senior interaction/UX designer with 5 years’ experience in the public sector, working to GDS and NHS service standards.
+</p>
+
+<p>I enjoy solving complex problems to make things easier and simpler for users.</p>
+
 
 <h2>Blog posts</h2> 
 
@@ -24,11 +31,6 @@
 
 <a href="remembering-to-ask-what-the-user-need-is.html">Remembering to ask what the user need is</a>
 
-<h2>About me</h2> 
-
-<p>I'm currently a designer at NHS Digital, working on the screening programme.</p>
-
-<p>I enjoy trying to solve complex problems to make things easier and simpler for users.</p>
 
 <nav class="pagination">
     </nav>
@@ -36,5 +38,7 @@
 <p>
 Copyright Samantha Saw
 |
-<a href="https://twitter.com/samantharosesaw/">@samantharosesaw</a>
+<a href="https://twitter.com/samantharosesaw/">Twitter</a> 
+|   
+<a href="https://www.linkedin.com/in/samantha-saw/"Linkedin</a>
 </p>
