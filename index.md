@@ -8,6 +8,7 @@
 
 <h2>Blog posts</h2> 
 
+<a href="creating-a-template.html">Creating a template to make it easier to get design work ready for development</a>
 
 <a href="challenging-white-by-default.html">Challenging white by default</a>
 
