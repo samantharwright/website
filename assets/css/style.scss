@@ -5,9 +5,8 @@
 
 $font-family: "Courier", Courier, monospace;
 $black: #1b121a;
-$purple: #60205b;
-$purple-2: #84157b;
-$link-color: $purple-2;
+$purple: #5B4BA0;
+$link-color: #5B4BA0;
 $blog-date: #FFFFFF;
 
 #header_wrap {
@@ -88,5 +87,5 @@ a {
     font-family: $font-family;
     font-size: 42px;
     font-weight: 700;
-    text-shadow: #111 0px 0px 10px;
+    text-shadow: #111 0px 0px 6px;
 }
