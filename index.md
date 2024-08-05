@@ -38,8 +38,6 @@
     
 <p>
 Copyright Samantha Wright
-|
-<a href="https://twitter.com/samantharosesaw/">Twitter</a> 
 |   
 <a href="https://www.linkedin.com/in/samantha-wright22/">Linkedin</a>
 </p>
