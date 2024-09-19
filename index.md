@@ -1,7 +1,9 @@
 <h2>About me</h2> 
 
-<p>I'm a Senior Interaction/UX Designer with 7 years’ experience in the public sector, working to GDS and NHS service standards.
+<p>I’m a Senior Interaction/UX and Service Designer with 7 years’ experience in the public sector, working to GDS and NHS service standards. 
 </p>
+
+
 
 <p>I enjoy solving complex problems to make things easier and simpler for users.</p>
 
